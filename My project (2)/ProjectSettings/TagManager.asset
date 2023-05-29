@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - FON
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - Attac
+  - FON
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fon
+    uniqueID: 1018129141
+    locked: 0
+  - name: FOn2
+    uniqueID: 2973592521
+    locked: 0
+  - name: fon3
+    uniqueID: 596082347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemy
+    uniqueID: 2160083785
+    locked: 0
+  - name: Player
+    uniqueID: 3592533203
+    locked: 0
+  - name: upplay
+    uniqueID: 2137819347
+    locked: 0
