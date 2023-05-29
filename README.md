@@ -6,7 +6,7 @@
 - `Spase` - Прыжок
 ## Скриншоты
 ### Главное меню 
-![Главное меню](https://disk.yandex.ru/client/disk/%D0%94%D0%9B%D0%AF%20Git?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%94%D0%9B%D0%AF%20Git%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-05-29%20091547.png)
+![Главное меню](https://sun9-75.userapi.com/impg/gZH7VDE5_61dpTvGbgNAIEW2oadd9KEsc-DCNA/iE3-jPuuQWg.jpg?size=1335x751&quality=95&sign=ea06d45a7aaaf56c67f730735a428805&type=album)
 ### Опции
 ![Обции]()
 ### Уровень
